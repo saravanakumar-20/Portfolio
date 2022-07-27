@@ -1,0 +1,137 @@
+body
+{
+  margin:0;
+  text-align:center;
+  font-family: 'Roboto Condensed', sans-serif;
+  color:#8E9775;
+}
+p
+{
+  line-height:2;
+}
+hr
+{
+  border:dotted #C0C0C0 6px;
+  border-bottom:none;
+  width:10%;
+  margin:100px auto;
+}
+.introduction
+{
+  width: 30%;
+  margin: 0 auto 0 auto;
+}
+h2
+{
+  font-size:2rem;
+  color:#66BFBF;
+  font-weight:normal;
+  line-height:2;
+}
+h1
+{
+  color:#66BFBF;
+  display:inline-block;
+  font-size:90px;
+  width:10%;  margin:50px auto 0 auto;
+  position:relative;
+  font-family: 'Sacramento', cursive;
+  line-height:2;
+}
+.top-container
+{
+  background-color:#CAF7E3;
+  position:relative;
+  padding:10px;
+}
+.bottom-cloud
+{
+  position:absolute;
+  bottom:300px;
+  left:300px;
+}
+.top-cloud
+{
+  position:absolute;
+  top:50px;
+  right:300px;
+}
+.specific
+{
+  text-decoration:overline;
+}
+.middle-container
+{
+   background-color:#CAF7E3;
+}
+.bottom-container
+{
+  background-color:#3d84b8;
+  margin-top:40px;
+  padding-top:10px;
+  padding-bottom:10px;
+}
+.profile
+{
+  width:75%;
+  margin:0 auto 0 auto;
+}
+.myphoto
+{
+  width:35%;
+}
+.skill
+{
+  width:75%;
+  margin: 80px auto 30px auto;
+}
+.skill-image
+{
+  width:25%;
+  float:left;
+  margin-right:30px;
+}
+.skill-row
+{
+  width:50%;
+  margin:80px auto 80px auto;
+  text-align:left;
+}
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  text-shadow: 0px 1px 22px #8f5f53;
+  font-family: 'Roboto Condensed', sans-serif;
+  color: a0937d;
+  font-size: 21px;
+  padding: 10px 10px 10px 10px;
+  margin: auto 30px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cfcec;
+  text-decoration: none;
+}
+a
+{
+  font-family: 'Roboto Condensed', sans-serif;
+  margin:30px auto 0px auto;
+  text-decoration:none;
+}
+a:hover
+{
+  color:red;
+}
+.copyright
+{
+  font-family: 'Roboto Condensed', sans-serif;
+  color:#890596;
+}
